@@ -9,7 +9,7 @@ This web app uses OpenAI's GPT-3 model (used in ChatGPT) and SpotiPy to recommen
 
 **OpenAI GPT-3**
 
-- SpotifAI uses OpenAI's GPT-3 model, specifically the DaVinci 3 engine. This is used to identify the mood of the song, by breaking it up into a list of one word tags. DaVinci 3 is also used to match those tags with specific songs. 
+- SpotifAI uses OpenAI's GPT-3 model, specifically the DaVinci 3 engine. This is used to identify the mood of the song, by breaking it up into a list of one word tags. DaVinci 3 is also used to match those tags with specific songs from it's training data. 
 
 **SpotiPy**
 
